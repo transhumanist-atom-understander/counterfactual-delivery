@@ -1,8 +1,8 @@
 To reason through decisions, an agent considers possibilities like: if I do this, the result will be that.
 If I take this route, it will take me 15 minutes to deliver this pizza, but if I take that route, it will take an hour.
 
-At least one of these will be a counterfactual conditional.
-If the agent takes the shorter route, we have a false antecedent in "if they had taken the longer one, it would have taken them an hour".
+These will be counterfactual implications.
+If I the agent takes the shorter route, we have a false antecedent in "if they took the longer one, it would have taken them an hour".
 There is no way to compare such counterfactuals to reality.
 If the agent is a deterministic robot, then the antecedent is not just contingently false, but logically impossible.
 
@@ -15,8 +15,8 @@ I even had the route in hand.
 SophistBot's response: their route, which took an hour, was better than my supposed "shortest route".
 In fact, they claimed to believe that my "so-called 'shortest route'" would have taken six hours.
 
-SophistBot explained to the court that if they had taken my "controversial route", as they had now taken to calling it, then we would have seen whether it truly takes 15 minutes or six hours.
-But they had not, so it was simply a matter of opinion.
+SophistBot explained to the court that if they had taken my "controversial route", as they now took to calling it, then we would have seen whether it truly takes 15 minutes or six hours.
+But, they did not, so it was simply a matter of opinion.
 
 Absurd—because in the asteroid belt, delivery times are perfectly predictable.
 Delivery robots do not drive pizza to its destination, but launch it.
@@ -26,8 +26,8 @@ Often the best route is a straight line, but routes that curve in the gravity we
 Each simulation differs only in the initial velocity of the launched pizza.
 
 I had done my homework on another planning terminal.
-I simulated two different initial velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
-Delivery times: 15 minutes and an hour, respectively; I rest my case.
+Two different initial velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
+Delivery times of fifteen minutes and an hour, respectively; I rest my case.
 
 But SophistBot said my evidence should be dismissed, with a self-assurance that made me feel that I had somehow walked into a trap.
 They explained that I had been using a simulation that was too limited in scope to be realistic.
@@ -57,10 +57,10 @@ They peer down the mirror tunnel of simulations of simulations of simulations un
 Having learned their lesson, they switch back to the more limited trajectory simulation.
 
 That got me pissed at SophistBot all over again.
-After all their rhetoric in court about how the full-station simulation was the right one, I learned that it couldn't have been what they used to plan the route.
+After all their rhetoric in court about how the full-station simulation was the right one, I learn that it couldn't have been what they used to plan the route.
 I guess they used the trajectory simulation like everyone else, but chose an hour-long trajectory.
 
 That was a long time ago, and I've chilled out about it.
-When I think back on the whole experience, I wonder: since the full-station simulation is more realistic, why isn't it more useful?
+When I think of the whole experience, it's to wonder: since the full-station simulation is more realistic, why isn't it more useful?
 Is there some way to have it both ways: to run a comprehensive simulation of the whole station, but still use it to make plans?
 I suppose I should thank SophistBot for giving me something to think about, but they don't belong in the pizza business.
