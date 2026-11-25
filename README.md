@@ -18,8 +18,7 @@ In fact, they claimed to believe that my "so-called 'shortest route'" would in f
 SophistBot explained to the court that if they had taken my "controversial route", as they now took to calling it, then we would have seen whether it truly takes 15 minutes or six hours.
 But, they did not, so it was simply a matter of opinion.
 
-Of course this is absurd.
-Because in the asteroid belt, delivery times are perfectly predictable.
+Absurd—because in the asteroid belt, delivery times are perfectly predictable.
 Delivery robots do not drive pizza to its destination, but launch it.
 
 To choose a route, a delivery robot simulates the launch on their pizza delivery planning terminal.
@@ -33,20 +32,26 @@ Delivery times of fifteen minutes and an hour, respectively; I rest my case.
 But SophistBot said my evidence should be dismissed, with a self-assurance that made me feel that I had somehow walked into a trap.
 They explained that I had been using a simulation that was too limited in scope to be realistic.
 As an outsider to the pizza business, commenting on matters I could not possibly understand, I had overlooked that planning terminals are capable of more than just simulating the launch trajectory.
-They also have a "full-station mode", which simulates every detail of the pizzeria station up to the moment of launch.
+They also have a "full-station mode", which simulates every detail of the pizzeria station up to the moment of launch, including its robot staff.
 
-In the full-station simulation, SophistBot sets up the launch with the parameters of the long route.
-There's no full-station simulation that includes the "so-called 'short route'", as they put it.
-Any such simulation would have to misrepresent some detail of the real situation, such as SophistBot's programming to set up contrived philosophical scenarios.
+This was all news to me.
+I had a friend who was also a delivery robot, the one who had let me use his planning terminal to gather evidence.
+He hadn't said anything about some higher level of simulation.
 
-I won the case and my pizza money was refunded.
-The judge was convinced by my argument that my simulation was, after all, the industry standard.
+SophistBot showed the court one full-station simulation.
+We saw a simulated SophistBot set up the launch with the parameters of the long route.
 
-Though I was satisfied that justice had been served, I began to wonder _why_ the program I ran was industry standard.
-Before SophistBot presented their evidence, I hadn't known that pizza delivery planning terminals could simulate the entire pizzeria, robot staff included.
+What about a full-station simulation of the short route?
+SophistBot explained: there could be no full-station simulation that includes this "controversial route".
+The full-station simulation represents every detail perfectly, including SophistBot's programming to set up contrived philosophical scenarios.
+Any simulation in which he sets up a different route than his programming requires is necessarily mispresenting the station, and should be rejected as inaccurate.
+Not only should my simulation be dismissed as evidence, but so should _any_ simulation I submit of my route.
 
-I talked to my friend who was also a pizza delivery robot, the same one who had let me use their planning terminal to gather evidence.
-They told me that every delivery bot tries out the full-station simulation at some point in their career.
+I was caught off guard, but in the end, I won the case.
+An expert witness testified that my trajectory simulations were the industry standard for planning.
+
+Now that my pizza money had been refunded, I asked my friend, the other delivery bot, about these different levels of simulation.
+They told me every bot in the business tries out the full-station simulation at some point in their career.
 But all they see as they watch the simulation is their simulated self booting up a simulation.
 They peer down the mirror tunnel of simulations of simulations of simulations until the program runs out of memory.
 Having learned their lesson, they switch back to the more limited trajectory simulation.
