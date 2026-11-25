@@ -1,12 +1,12 @@
 To reason through decisions, an agent considers possibilities like: if I do this, the result will be that.
 If I take this route, it will take me 15 minutes to deliver this pizza, but if I take that route, it will take an hour.
 
-If the agent is a deterministic robot, these will be counterfactual implications.
-Surely the robot takes the shorter route, so we have a false antecedent in "if they took the longer one, it would have taken them an hour".
+These will be counterfactual implications.
+If I the agent takes the shorter route, we have a false antecedent in "if they took the longer one, it would have taken them an hour".
 There is no way to compare such counterfactuals to reality.
+If the agent is a deterministic robot, then the antecedent is not just contingently false, but logically impossible.
 
-Or, you would think the robot takes the shorter route.
-I made the mistake of ordering a pizza from SophistBot, who runs one of the free-floating pizzeria space stations in my neighborhood.
+I learned this all the hard way when I ordered a pizza from SophistBot, who runs one of the free-floating pizzeria space stations in my neighborhood.
 The name should have been a warning, but they have a guarantee that they always take the shortest possible route, so I ordered.
 When the pizza took an hour to arrive, I took SophistBot to court over this guarantee, which shows you how seriously we take pizza out in the asteroid belt.
 
