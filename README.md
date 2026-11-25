@@ -23,7 +23,7 @@ Delivery robots do not drive pizza to its destination, but launch it.
 
 To choose a route, a delivery robot simulates the launch on their pizza delivery planning terminal.
 Often the best route is a straight line, but routes that curve in the gravity wells of celestial bodies can be faster.
-Each simulation begins at the time of launch, identical in every every detail to every other simulation, except for the initial velocity vector of the pizza.
+Each simulation begins at the time of launch, identical in every detail to every other simulation, except for the initial velocity vector of the pizza.
 
 I had done my homework on another planning terminal.
 Two different initial velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
@@ -39,7 +39,7 @@ I had a friend who was also a delivery robot, the one who had let me use their p
 They hadn't said anything about some higher level of simulation.
 
 SophistBot showed the court one full-station simulation.
-We saw a simulated SophistBot set up the launch with the parameters of the long route, followed by the launch, and an hour-long trajectory.
+We saw a simulated SophistBot set up the launch with the parameters of the long route, followed by the launch and an hour-long trajectory.
 
 What about a full-station simulation of the short route?
 SophistBot explained: there could be no full-station simulation that includes this "controversial route".
