@@ -1,8 +1,8 @@
 To reason through decisions, an agent considers possibilities like: if I do this, the result will be that.
 If I take this route, it will take me 15 minutes to deliver this pizza, but if I take that route, it will take an hour.
 
-These will be counterfactual implications.
-If I the agent takes the shorter route, we have a false antecedent in "if they took the longer one, it would have taken them an hour".
+These will be counterfactual conditionals.
+If the agent takes the shorter route, we have a false antecedent in "if they took the longer one, it would have taken them an hour".
 There is no way to compare such counterfactuals to reality.
 If the agent is a deterministic robot, then the antecedent is not just contingently false, but logically impossible.
 
@@ -22,14 +22,14 @@ Absurd—because in the asteroid belt, delivery times are perfectly predictable.
 Delivery robots do not drive pizza to its destination, but launch it.
 
 To choose a route, a delivery robot simulates the launch on their pizza delivery planning terminal.
-Often the best route is a straight line, but routes that curve in the gravity wells of celestial bodies can sometimes be faster.
-Each simulation differs only in the initial velocity of the launched pizza.
+Often the best route is a straight line, but routes that curve in the gravity wells of celestial bodies can be faster.
+Each simulation begins at the time of launch, identical in every every detail to every other simulation, except for the initial velocity vector of the pizza.
 
 I had done my homework on another planning terminal.
 Two different initial velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
 Delivery times of fifteen minutes and an hour, respectively; I rest my case.
 
-But SophistBot said my evidence should be dismissed, with a self-assurance that made me feel that I had somehow walked into a trap.
+But SophistBot said my evidence should be dismissed.
 They explained that I had been using a simulation that was too limited in scope to be realistic.
 As an outsider to the pizza business, commenting on matters I could not possibly understand, I had overlooked that planning terminals are capable of more than just simulating the launch trajectory.
 They also have a "full-station mode", which simulates every detail of the pizzeria station up to the moment of launch, including its robot staff.
@@ -39,16 +39,17 @@ I had a friend who was also a delivery robot, the one who had let me use their p
 They hadn't said anything about some higher level of simulation.
 
 SophistBot showed the court one full-station simulation.
-We saw a simulated SophistBot set up the launch with the parameters of the long route.
+We saw a simulated SophistBot set up the launch with the parameters of the long route, followed by the launch, and an hour-long trajectory.
 
 What about a full-station simulation of the short route?
 SophistBot explained: there could be no full-station simulation that includes this "controversial route".
 The full-station simulation represents every detail perfectly, including SophistBot's programming to set up contrived philosophical scenarios.
-Any simulation in which they set up a different route than his programming requires is necessarily misrepresenting the station, and should be rejected as inaccurate.
+Any simulation in which they set up a different route than their programming requires is necessarily misrepresenting the station, and should be rejected as inaccurate.
 Not only should my simulation be dismissed as evidence, but so should _any_ simulation I submit of my route.
 
 I was caught off guard, but in the end, I won the case.
 An expert witness testified that my trajectory simulations were the industry standard for planning.
+The judge accepted my simulations as evidence and ruled that SophistBot had violated their guarantee.
 
 Now that my pizza money had been refunded, I asked my friend, the other delivery bot, about these different levels of simulation.
 They told me every bot in the business tries out the full-station simulation at some point in their career.
@@ -61,6 +62,6 @@ After all their rhetoric in court about how the full-station simulation was the 
 I guess they used the trajectory simulation like everyone else, but chose an hour-long trajectory.
 
 That was a long time ago, and I've chilled out about it.
-When I think of the whole experience, it's to wonder: since the full-station simulation is more realistic, why isn't it more useful?
+When I think back on the experience, it's to wonder: since the full-station simulation is more realistic, why isn't it more useful?
 Is there some way to have it both ways: to run a comprehensive simulation of the whole station, but still use it to make plans?
 I suppose I should thank SophistBot for giving me something to think about, but they don't belong in the pizza business.
