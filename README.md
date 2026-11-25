@@ -1,11 +1,11 @@
 To reason through decisions, an agent considers possibilities like: if I do this, the result will be that.
 If I take this route, it will take me 15 minutes to deliver this pizza, but if I take that route, it will take an hour.
 
-If the agent is a deterministic robot, at least one of these will be a counterfactual conditional.
-Surely the robot takes the shorter route, so we have a false antecedent in "if they had taken the longer one, it would have taken them an hour".
+If the agent is a deterministic robot, these will be counterfactual implications.
+Surely the robot takes the shorter route, so we have a false antecedent in "if they took the longer one, it would have taken them an hour".
 There is no way to compare such counterfactuals to reality.
 
-Or so you would think.
+Or, you would think the robot takes the shorter route.
 I made the mistake of ordering a pizza from SophistBot, who runs one of the free-floating pizzeria space stations in my neighborhood.
 The name should have been a warning, but they have a guarantee that they always take the shortest possible route, so I ordered.
 When the pizza took an hour to arrive, I took them to court over this guarantee, which shows you how seriously we take pizza out in the asteroid belt.
@@ -34,9 +34,9 @@ I won the case and my pizza money was refunded.
 The judge was convinced by my argument that my simulation was, after all, the industry standard.
 
 Though I was satisfied that justice had been served, I began to wonder _why_ the program I ran was industry standard.
-Before SophistBot presented their evidence, I hadn't known that pizza delivery simulation terminals could simulate the entire pizzeria, robot staff included.
+Before SophistBot presented their evidence, I hadn't known that pizza delivery planning terminals could simulate the entire pizzeria, robot staff included.
 
-After I talked to a few other pizza delivery bots, I learned that they all run the full-station simulation at some point in their career.
+After I talked to a few other pizza delivery bots, I learned that they all run it at some point in their career.
 But all they see as they watch the simulation is a robot booting up a simulation.
 They peer down the mirror tunnel of simulations of simulations of simulations until the program runs out of memory.
 Then, they switch back to the industry-standard simulation technique, which simulates just the pizza itself with a given initial velocity.
