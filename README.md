@@ -27,7 +27,7 @@ Each simulation begins at the time of launch, identical in every detail to every
 
 I had done my homework on another planning terminal.
 Two different initial velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
-Delivery times of fifteen minutes and an hour, respectively; I rest my case.
+Delivery times of 15 minutes and an hour, respectively; I rest my case.
 
 But SophistBot said my evidence should be dismissed.
 They explained that I had been using a simulation that was too limited in scope to be realistic.
