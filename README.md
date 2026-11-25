@@ -33,7 +33,7 @@ Delivery times of 15 minutes and an hour, respectively; I rest my case.
 But SophistBot said my evidence should be dismissed.
 They explained that I had been using a simulation that was too limited in scope to be realistic.
 As an outsider to the pizza business, commenting on matters I could not possibly understand, I had overlooked that planning terminals are capable of more than just simulating the launch trajectory.
-They also have a "full-station mode", which simulates every detail of the pizzeria station up to the moment of launch, including its robot staff.
+They also have a "full-station mode", which simulates not just the launch but every detail of the pizzeria station, including its robot staff.
 
 This was all news to me.
 I had a friend who was also a delivery robot, the one who had let me use their planning terminal to gather evidence.
