@@ -43,6 +43,11 @@ But all they see as they watch the simulation is a robot booting up a simulation
 They peer down the mirror tunnel of simulations of simulations of simulations until the program runs out of memory.
 Having learned their lesson, they switch back to the more limited trajectory simulation.
 
-I did sometimes wonder: could a simulation really be better by being more limited?
-Wasn't there some way to have it both ways: to use a comprehensive simulation of the whole station, but still make useful plans?
-I suppose I should thank SophistBot for raising these questions, but I think they're in the wrong line of work.
+That got me pissed with SophistBot all over again.
+After all their rhetoric in court about how the full-station simulation was the right one, I learn that it couldn't have been what they used to plan the route.
+I guess they used the trajectory simulation like everyone else, but chose a bad trajectory.
+
+That was a long time ago, and I've chilled out about it.
+When I think of the whole experience, it's to wonder: could a simulation really be better by being more limited?
+Or is there some way to have it both ways: to use a comprehensive simulation of the whole station, but still make useful plans?
+I suppose I should thank SophistBot for raising these questions, but they don't belong in the pizza business.
