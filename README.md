@@ -8,10 +8,10 @@ There is no way to compare such counterfactuals to reality.
 Or, you would think the robot takes the shorter route.
 I made the mistake of ordering a pizza from SophistBot, who runs one of the free-floating pizzeria space stations in my neighborhood.
 The name should have been a warning, but they have a guarantee that they always take the shortest possible route, so I ordered.
-When the pizza took an hour to arrive, I took them to court over this guarantee, which shows you how seriously we take pizza out in the asteroid belt.
+When the pizza took an hour to arrive, I took SophistBot to court over this guarantee, which shows you how seriously we take pizza out in the asteroid belt.
 
-My claim to the judge: if SophistBot had taken the short route, my pizza would have arrived in 15 minutes.
-SophistBot claimed to believe that the supposed "short route" would in fact have taken six hours, and challenged me to prove otherwise.
+My claim to the judge: if SophistBot had taken the shortest route, my pizza would have arrived in 15 minutes.
+SophistBot claimed to believe that my proposed "shortest route" would in fact have taken six hours, and challenged me to prove otherwise.
 
 I thought I had a case, because out here in the asteroid belt, delivery times are perfectly predictable.
 Delivery robots do not drive pizza to its destination, but launch it.
@@ -20,7 +20,8 @@ To choose a route, a delivery robot simulates the launch on a standard simulatio
 You might think the only way to launch it is in a straight line, but routes that curve in the gravity wells of celestial bodies can sometimes be faster.
 Each simulation differs only in the initial velocity of the launched pizza.
 Therefore, I just ran the industry-standard simulation software, with two different initial velocities, corresponding to the short route SophistBot should have taken, and the long route they actually did take.
-Fifteen minutes and an hour; I rest my case.
+The simulated delivery times: fifteen minutes and an hour, respectively.
+I rest my case.
 
 SophistBot tried to have this evidence dismissed.
 As it turns out, pizza delivery simulation terminals are capable of more than just simulating the launch trajectory.
