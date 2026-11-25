@@ -22,12 +22,12 @@ Absurd—because in the asteroid belt, delivery times are perfectly predictable.
 Delivery robots do not drive pizza to its destination, but launch it.
 
 To choose a route, a delivery robot simulates the launch on their pizza delivery planning terminal.
-Often the best route is a straight line, but routes that curve in the gravity wells of celestial bodies can be faster.
-Each simulation is initialized with a asteroid map representing the time of launch.
-They differ only in the initial velocity vector of the pizza.
+Often the best route is a straight line, but sometimes it's better to take curved routes using the magnetic deflection nodes set up on some of the asteroids.
+Each simulation is initialized with a local asteroid map.
+They differ only in the velocity vector of the pizza at time of launch.
 
 I had done my homework on another planning terminal.
-Two different initial velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
+Two different launch velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
 Delivery times of 15 minutes and an hour, respectively; I rest my case.
 
 But SophistBot said my evidence should be dismissed.
