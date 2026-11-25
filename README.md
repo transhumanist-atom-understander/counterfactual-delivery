@@ -49,7 +49,7 @@ Any simulation in which they set up a different route than their programming req
 
 I was caught off guard, but in the end, I won the case.
 An expert witness testified that my trajectory simulations were the industry standard for planning.
-The judge accepted my simulations as evidence and ruled that SophistBot had violated their guarantee, and was liable for the cost of the pizza.
+The judge accepted my simulations as evidence, and ruled that SophistBot had violated their guarantee and was liable for the cost of the pizza.
 
 Now that my pizza money had been refunded, I asked my friend, the other delivery bot, about these different levels of simulation.
 They told me every bot in the business tries out the full-station simulation at some point in their career.
