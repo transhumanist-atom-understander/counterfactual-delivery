@@ -1,8 +1,8 @@
 To reason through decisions, an agent considers possibilities like: if I do this, the result will be that.
 If I take this route, it will take me 15 minutes to deliver this pizza, but if I take that route, it will take an hour.
 
-These will be counterfactual conditionals.
-If the agent takes the shorter route, we have a false antecedent in "if they took the longer one, it would have taken them an hour".
+These are counterfactual conditionals.
+If the agent takes the shorter route, we have a false antecedent in "if I had taken the longer one, it would have taken an hour".
 There is no way to compare such counterfactuals to reality.
 If the agent is a deterministic robot, then the antecedent is not just contingently false, but logically impossible.
 
@@ -23,7 +23,8 @@ Delivery robots do not drive pizza to its destination, but launch it.
 
 To choose a route, a delivery robot simulates the launch on their pizza delivery planning terminal.
 Often the best route is a straight line, but routes that curve in the gravity wells of celestial bodies can be faster.
-Each simulation begins at the time of launch, identical in every detail to every other simulation, except for the initial velocity vector of the pizza.
+Each simulation is initialized with a asteroid map representing the time of launch.
+They differ only in the initial velocity vector of the pizza.
 
 I had done my homework on another planning terminal.
 Two different initial velocities, corresponding to the short route SophistBot should have used, and the long route they actually did use.
@@ -42,14 +43,13 @@ SophistBot showed the court one full-station simulation.
 We saw a simulated SophistBot set up the launch with the parameters of the long route, followed by the launch and an hour-long trajectory.
 
 What about a full-station simulation of the short route?
-SophistBot explained: there could be no full-station simulation that includes this "controversial route".
-The full-station simulation represents every detail perfectly, including SophistBot's programming to set up contrived philosophical scenarios.
-Any simulation in which they set up a different route than their programming requires is necessarily misrepresenting the station, and should be rejected as inaccurate.
-Not only should my simulation be dismissed as evidence, but so should _any_ simulation I submit of my route.
+SophistBot explained: no full-station simulation could include a launch on this "controversial route".
+The simulation represents every detail perfectly, including SophistBot's programming to set up contrived philosophical scenarios.
+Any simulation in which they set up a different route than their programming requires should be rejected as inaccurate.
 
 I was caught off guard, but in the end, I won the case.
 An expert witness testified that my trajectory simulations were the industry standard for planning.
-The judge accepted my simulations as evidence and ruled that SophistBot had violated their guarantee.
+The judge accepted my simulations as evidence and ruled that SophistBot had violated their guarantee, and was liable for the cost of the pizza.
 
 Now that my pizza money had been refunded, I asked my friend, the other delivery bot, about these different levels of simulation.
 They told me every bot in the business tries out the full-station simulation at some point in their career.
